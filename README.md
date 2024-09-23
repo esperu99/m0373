@@ -1,1 +1,3 @@
-# m0373_readme.md
+# Sesión 1
+
+- [x] Estructura básica html
